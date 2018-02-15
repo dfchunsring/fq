@@ -1,4 +1,4 @@
-<a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></p>
+<a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></a>
 
 <IMG SRC="img/2010-12-28-net_shuqian_pic.jpg" width=880><br>
  
