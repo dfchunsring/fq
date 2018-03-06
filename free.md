@@ -1,3 +1,8 @@
+<IMG SRC="img/lian-y3-0306.jpg" width=880><br>
+<IMG SRC="img/sy-IP-orange-0306.jpg" width=880><br>
+<a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
+<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+
 <IMG SRC="img/2010-12-28-net_shuqian_pic.jpg" width=880><br>
  
  中共的“金盾工程”（Golden Shield）是一个综合、多层的网络封锁和监视系统，其目的是为了限制、拘控，甚至抓捕人民。该工程在技术层面的封锁，包括IP地址封锁、网页内容与网址过滤、https证书过滤、域名劫持、网咖监控、个人上网监控、单位安装过滤软件、邮件服务器过滤以及聊天室和即时通讯软件内容过滤。在“金盾工程”强逼的监控封锁下，网民（Netizens）看不到真正的信息，网络多是被中共过滤过以及造假不实的内容。
